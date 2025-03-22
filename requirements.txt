@@ -1,0 +1,11 @@
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-silero
+python-dotenv
+groq 
+elevenlabs 
+assemblyai
+moviepy
+livekit-plugins-deepgram
+livekit-plugins-elevenlabs
+livekit-plugins-assemblyai
