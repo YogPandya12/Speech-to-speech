@@ -31,8 +31,8 @@ Follow these steps to set up and run the project:
 1.  **Clone the Repository**:
 
     ```bash
-    git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/YogPandya12/Speech-to-speech.git
+    cd Speech-to-speech
     ```
 
 2.  **Create a Virtual Environment**:
